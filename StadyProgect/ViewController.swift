@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     var one = 1
     var two = 2
+    var three = 3
     
     override func viewDidLoad() {
         super.viewDidLoad()
